@@ -1,0 +1,10 @@
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Git configuration
+.git/
