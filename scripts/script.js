@@ -2,7 +2,7 @@ const songs = [
     {
         title: "FFH",
         src: "songs/FFH.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        cover: "imgs/Gemini_Generated_Image_cdov99cdov99cdov.png",
         lyrics: [
             { time: 13, text: "Five fucking hours in the stars(in the stars)" },
             { time: 16, text: "five fucking hours in the stars(in the stars)" },
@@ -61,7 +61,7 @@ const songs = [
     {
         title: "Insano",
         src: "songs/Insano.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        cover: "imgs/Abelcok.png",
         lyrics: [
             { time: 0, text: "Insano..." },
             { time: 5, text: "Todo se vuelve loco" },
@@ -71,7 +71,7 @@ const songs = [
     {
         title: "MASA",
         src: "songs/MASA.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        cover: "imgs/Farlopa.png",
         lyrics: [
             { time: 0, text: "MASA" },
             { time: 5, text: "Mucho volumen" },
@@ -81,7 +81,7 @@ const songs = [
     {
         title: "Noche loca",
         src: "songs/Noche loca.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",  
+        cover: "imgs/Raulitas.png",  
         lyrics: [
             { time: 0, text: "Noche loca" },
             { time: 5, text: "Nadie duerme hoy" },
@@ -91,7 +91,7 @@ const songs = [
     {
         title: "Not mine",
         src: "songs/Not mine.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        cover: "imgs/young.png",
         lyrics: [
             { time: 0, text: "Not mine" },
             { time: 5, text: "No es mío" },
@@ -101,7 +101,7 @@ const songs = [
     {
         title: "Dioses del reggaeton",
         src: "songs/dioses del reggaeton.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        cover: "imgs/Portada dioses del reggaeton.png",
         lyrics: [
             { time: 0, text: "Dioses del reggaeton" },
             { time: 5, text: "Bajaron del cielo" },
@@ -111,7 +111,7 @@ const songs = [
     {
         title: "Moñota",
         src: "songs/moñota.mp3",
-        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",      
+        cover: "imgs/Gemini_Generated_Image_cdov99cdov99cdov.png",      
         lyrics: [
             { time: 0, text: "Moñota" },
             { time: 5, text: "Estilo único" },

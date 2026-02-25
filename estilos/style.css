@@ -173,3 +173,6 @@ footer {
     padding: 20px;
     color: var(--white-color);
 }
+#cover-img {
+    width: 100%;
+}
