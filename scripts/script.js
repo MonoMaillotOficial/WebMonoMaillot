@@ -1,8 +1,8 @@
 const songs = [
     {
         title: "FFH",
-        src: "/songs/FFH.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/FFH.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
         lyrics: [
             { time: 0, text: "Intro musical..." },
             { time: 10, text: "Esta es la canción FFH" },
@@ -14,8 +14,8 @@ const songs = [
     },
     {
         title: "Insano",
-        src: "/songs/Insano.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/Insano.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
         lyrics: [
             { time: 0, text: "Insano..." },
             { time: 5, text: "Todo se vuelve loco" },
@@ -24,8 +24,8 @@ const songs = [
     },
     {
         title: "MASA",
-        src: "/songs/MASA.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/MASA.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
         lyrics: [
             { time: 0, text: "MASA" },
             { time: 5, text: "Mucho volumen" },
@@ -34,8 +34,8 @@ const songs = [
     },
     {
         title: "Noche loca",
-        src: "/songs/Noche loca.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/Noche loca.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",  
         lyrics: [
             { time: 0, text: "Noche loca" },
             { time: 5, text: "Nadie duerme hoy" },
@@ -44,8 +44,8 @@ const songs = [
     },
     {
         title: "Not mine",
-        src: "/songs/Not mine.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/Not mine.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
         lyrics: [
             { time: 0, text: "Not mine" },
             { time: 5, text: "No es mío" },
@@ -54,8 +54,8 @@ const songs = [
     },
     {
         title: "Dioses del reggaeton",
-        src: "/songs/dioses del reggaeton.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/dioses del reggaeton.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
         lyrics: [
             { time: 0, text: "Dioses del reggaeton" },
             { time: 5, text: "Bajaron del cielo" },
@@ -64,8 +64,8 @@ const songs = [
     },
     {
         title: "Moñota",
-        src: "/songs/moñota.mp3",
-        cover: "/imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",
+        src: "songs/moñota.mp3",
+        cover: "imgs/Gemini_Generated_Image_2zeup82zeup82zeu.png",      
         lyrics: [
             { time: 0, text: "Moñota" },
             { time: 5, text: "Estilo único" },
