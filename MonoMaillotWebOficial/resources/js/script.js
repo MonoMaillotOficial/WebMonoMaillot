@@ -1,7 +1,7 @@
 const songs = [
     {
         title: "FFH",
-        src: "songs/FFH.mp3",
+        src: "../../public/songs/FFH.mp3",
         cover: "../../public/imgs/FFHPortada.png",
         lyrics: [
             { time: 13, text: "Five fucking hours in the stars(in the stars)" },
@@ -60,7 +60,7 @@ const songs = [
     },
     {
         title: "Insano",
-        src: "songs/Insano.mp3",
+        src: "../../public/songs/Insano.mp3",
         cover: "../../public/imgs/InsanoPortada.png",
         lyrics: [
             { time: 9, text: "Y me he cansado" },
@@ -127,7 +127,7 @@ const songs = [
     },
        {
     title: "MASA",
-    src: "songs/MASA.mp3",
+    src: "../../public/songs/MASA.mp3",
     cover: "../../public/imgs/MasaPortada.png",
     lyrics: [
         // INTRO
@@ -218,7 +218,7 @@ const songs = [
        },
     {
         title: "Noche loca",
-        src: "songs/Noche loca.mp3",
+        src: "../../public/songs/Noche loca.mp3",
         cover: "../../public/imgs/NocheLocaPortada.png",  
         lyrics: [
             { time: 11, text: "Tú y yo en el backseat" },
@@ -271,7 +271,7 @@ const songs = [
     },
     {
         title: "Not mine",
-        src: "songs/Not mine.mp3",
+        src: "../../public/songs/Not mine.mp3",
         cover: "../../public/imgs/NotMinePortada.png",
         lyrics: [
             { time: 7, text: "Not mine, not mine" },
@@ -336,7 +336,7 @@ const songs = [
     },
     {
         title: "Dioses del reggaeton",
-        src: "songs/dioses del reggaeton.mp3",
+        src: "../../public/songs/dioses del reggaeton.mp3",
         cover: "../../public/imgs/PortadaDioses.png",
         lyrics: [
             { time: 0, text: "El rayo ya ca-yó" },
@@ -379,7 +379,7 @@ const songs = [
     },
     {
         title: "Moñota",
-        src: "songs/moñota.mp3",
+        src: "../../public/songs/moñota.mp3",
         cover: "../../public/imgs/MoñotaPortada.png",      
         lyrics: [
             { time: 10, text: "Quiero una moñota que combine con mi outfit" },
