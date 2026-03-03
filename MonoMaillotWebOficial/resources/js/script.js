@@ -2,7 +2,7 @@ const songs = [
     {
         title: "FFH",
         src: "songs/FFH.mp3",
-        cover: "imgs/FFHPortada.png",
+        cover: "../../public/imgs/FFHPortada.png",
         lyrics: [
             { time: 13, text: "Five fucking hours in the stars(in the stars)" },
             { time: 16, text: "five fucking hours in the stars(in the stars)" },
@@ -61,7 +61,7 @@ const songs = [
     {
         title: "Insano",
         src: "songs/Insano.mp3",
-        cover: "imgs/InsanoPortada.png",
+        cover: "../../public/imgs/InsanoPortada.png",
         lyrics: [
             { time: 9, text: "Y me he cansado" },
             { time: 11, text: "toca apostar todo en una mano" },
@@ -128,7 +128,7 @@ const songs = [
        {
     title: "MASA",
     src: "songs/MASA.mp3",
-    cover: "imgs/MasaPortada.png",
+    cover: "../../public/imgs/MasaPortada.png",
     lyrics: [
         // INTRO
         { time: 2, text: "Yeah," },
@@ -219,17 +219,60 @@ const songs = [
     {
         title: "Noche loca",
         src: "songs/Noche loca.mp3",
-        cover: "imgs/NocheLocaPortada.png",  
+        cover: "../../public/imgs/NocheLocaPortada.png",  
         lyrics: [
-            { time: 0, text: "Noche loca" },
-            { time: 5, text: "Nadie duerme hoy" },
-            { time: 10, text: "Fiesta hasta el amanecer" }
+            { time: 11, text: "Tú y yo en el backseat" },
+            { time: 13, text: "ojalá se vuelva a repetir" },
+            { time: 16, text: "hoy toca desmentir" },
+            { time: 19, text: "todo lo que algún día se dijo de mí" },
+            { time: 22, text: "Mares ficticios en los que me ahogo" },
+            { time: 25, text: "siempre salgo a flote, de cualquier modo" },
+            { time: 29, text: "yo no mido mucho pero lo veo todo" },
+            { time: 32, text: "baby, tú me tienes loco" },
+            { time: 36, text: "El click-clack de cada tecla al pulsar" },
+            { time: 40, text: "un palo más que se va a sacar" },
+            { time: 43, text: "y tú no lo vas a olvidar" },
+            { time: 45, text: "nos hace falta una canción pa’ despegar" },
+            { time: 48, text: "Con la segunda el cielo llegamos a tocar" },
+            { time: 52, text: "miradas que no saben disimular" },
+            { time: 55, text: "todo arde cuando te acercas más" },
+            { time: 58, text: "sé que esta historia no quiere final" },
+            { time: 62, text: "Noche loca" },
+            { time: 65, text: "siente cuando te toca" },
+            { time: 67, text: "la baby me llama, sola se aloca" },
+            { time: 70, text: "tengo la trama, tú tienes la mota" },
+            { time: 75, text: "Más eléctrico que Enel" },
+            { time: 78, text: "es que no puede ser" },
+            { time: 82, text: "débil a la goma, pues toma" },
+            { time: 84, text: "sé que soy tu debilidad" },
+            { time: 89, text: "Todavía me puedo acordar" },
+            { time: 91, text: "de esas noches sin hora ni lugar" },
+            { time: 94, text: "de una mamatropolis de las que tú sabes dar" },
+            { time: 97, text: "dejando marcas que no se pueden borrar" },
+            { time: 101, text: "Luces rojas, verdes, azul neón" },
+            { time: 104, text: "perdidos siguiendo el ritmo del corazón" },
+            { time: 107, text: "dicen mi nombre pero sin razón" },
+            { time: 110, text: "solo tú sabes quién soy yo" },
+            { time: 113, text: "Y aunque mañana todo se apague" },
+            { time: 116, text: "sé que esta vibra no se nos cae" },
+            { time: 119, text: "si me pierdo, baby, tú me traes" },
+            { time: 122, text: "somos pecado que nadie frena ya" },
+            { time: 127, text: "Noche loca" },
+            { time: 129, text: "siente cuando te toca" },
+            { time: 132, text: "la baby me llama, sola se aloca" },
+            { time: 135, text: "piel con piel, la noche provoca" },
+            { time: 138, text: "Más eléctrico que Enel" },
+            { time: 142, text: "es que no puede ser" },
+            { time: 147, text: "si tú me miras así de nuevo" },
+            { time: 151, text: "sé que volvemos a caer" },
+            { time: 158, text: "Tú y yo en el backseat…" },
+            { time: 163, text: "ojalá se vuelva a repetir" }
         ]
     },
     {
         title: "Not mine",
         src: "songs/Not mine.mp3",
-        cover: "imgs/NotMinePortada.png",
+        cover: "../../public/imgs/NotMinePortada.png",
         lyrics: [
             { time: 7, text: "Not mine, not mine" },
             { time: 8, text: "veo una piba digo this is mine" },
@@ -294,17 +337,50 @@ const songs = [
     {
         title: "Dioses del reggaeton",
         src: "songs/dioses del reggaeton.mp3",
-        cover: "imgs/PortadaDioses.png",
+        cover: "../../public/imgs/PortadaDioses.png",
         lyrics: [
-            { time: 0, text: "Dioses del reggaeton" },
-            { time: 5, text: "Bajaron del cielo" },
-            { time: 10, text: "Para hacernos perrear" }
+            { time: 0, text: "El rayo ya ca-yó" },
+            { time: 3, text: "Las nubes que traen la tormenta lle-go" },
+            { time: 6, text: "No hablo de Inazuma, hablo de Mono Mai-llot" },
+            { time: 9, text: "Con la fuerza de un dios, yeah, yeah..." },
+            { time: 14, text: "Tu chica por reyes alguno de los míos pidió" },
+            { time: 17, text: "Subimos tanto que se asus-to" },
+            { time: 19, text: "La industria no se prepara-ó" },
+            { time: 21, text: "Estamos arriba, rompimos to’" },
+            { time: 23, text: "Y llegaron los dioses del reggaetón" },
+            { time: 25, text: "Reggaetón o trap, lo mismo nos dió" },
+            { time: 27, text: "Tenemos tanta fuerza que nos comparan con Bai Long" },
+            { time: 30, text: "Hermanito, pa’ ganarnos tienes que pedirle un favor a Shen Long" },
+            { time: 34, text: "Y si un friki puede subir" },
+            { time: 36, text: "Un friki se viste de gala por ti" },
+            { time: 38, text: "Un friki te tiene bailando en el beat" },
+            { time: 40, text: "Te hace mover aunque no quieras, sí" },
+            { time: 42, text: "Pero qué, pero qué quieres" },
+            { time: 43, text: "La escena en mis manos, tú tiembla si vienes" },
+            { time: 45, text: "Las botas me pongo pa’ entrar al barro" },
+            { time: 47, text: "De la nada subí y no paro" },
+            { time: 50, text: "Yo no necesito una varita mágica" },
+            { time: 52, text: "Solo mi voz y mi lírica trágica" },
+            { time: 54, text: "Flow de videojuego, mi estética" },
+            { time: 56, text: "Cada tema una obra mítica" },
+            { time: 58, text: "Desde el sótano hasta el cielo" },
+            { time: 59, text: "Sudor, fuego y terciopelo" },
+            { time: 61, text: "Si el trueno suena es porque vuelo" },
+            { time: 63, text: "Mono Maillot rompe el suelo" },
+            { time: 65, text: "De Sevilla a Dublín retumbó" },
+            { time: 67, text: "El beat suena y el piso tembló" },
+            { time: 69, text: "Los dioses bajaron, el juego cambió" },
+            { time: 70, text: "El rayo cayó y el mundo miró" },
+            { time: 72, text: "Somos los dioses del reggaetón" },
+            { time: 74, text: "No hay truco, solo inspiración" },
+            { time: 76, text: "Del anime al trap, la conexión" },
+            { time: 78, text: "Mono Maillot, revolución" }
         ]
     },
     {
         title: "Moñota",
         src: "songs/moñota.mp3",
-        cover: "imgs/MoñotaPortada.png",      
+        cover: "../../public/imgs/MoñotaPortada.png",      
         lyrics: [
             { time: 10, text: "Quiero una moñota que combine con mi outfit" },
             { time: 13, text: "medio venezolana que me habla como Gonzy" },
@@ -491,8 +567,15 @@ function syncLyrics(currentTime) {
         const activeLine = document.getElementById(`line-${currentLineIndex}`);
         if (activeLine) {
             activeLine.classList.add("highlight");
-            // Auto scroll to active line
-            activeLine.scrollIntoView({ behavior: "smooth", block: "center" });
+            
+            // Solo hacer scroll si la línea no está visible
+            const lyricsContainer = document.getElementById("lyrics-container");
+            const containerRect = lyricsContainer.getBoundingClientRect();
+            const lineRect = activeLine.getBoundingClientRect();
+
+            if (lineRect.top < containerRect.top || lineRect.bottom > containerRect.bottom) {
+                activeLine.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
         }
     }
 }

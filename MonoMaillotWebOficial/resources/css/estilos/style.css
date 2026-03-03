@@ -2,7 +2,7 @@
     --black-color: rgb(0, 0, 0);
     --maroon-color: #810101;
     --white-color: rgb(255, 255, 255);
-    --highlight-color: #ffcc00;
+    --highlight-color: #f13232;
 }
 
 body {
@@ -171,7 +171,7 @@ input[type="range"] {
     border-radius: 15px;
     width: 100%;
     max-width: 500px;
-    height: 400px;
+    max-height: 50vh; /* Altura máxima para permitir scroll de la página */
     overflow-y: auto;
     text-align: center;
     box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
@@ -197,7 +197,4 @@ footer {
     margin-top: auto;
     padding: 20px;
     color: var(--white-color);
-}
-#cover-img {
-    width: 100%;
 }

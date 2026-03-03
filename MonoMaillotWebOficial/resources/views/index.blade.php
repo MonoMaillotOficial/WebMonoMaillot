@@ -4,19 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mono Maillot</title>
-    <link rel="stylesheet" href="estilos/style.css">
-    <script src="scripts/script.js" defer></script>
+    <link rel="stylesheet" href="../css/estilos/style.css">
+    <script src="../js/script.js" defer></script>
 </head>
 <body>
     <!-- Imágenes en las esquinas -->
-    <img src="imgs/Abelcok.png" class="corner-img top-left" alt="Abelcok">
-    <img src="imgs/Farlopa.png" class="corner-img top-right" alt="Farlopa">
-    <img src="imgs/Raulitas.png" class="corner-img bottom-left" alt="Raulitas">
-    <img src="imgs/young.png" class="corner-img bottom-right" alt="Young">
+    <img src="../../public/imgs/Abelcok.png" class="corner-img top-left" alt="Abelcok">
+    <img src="../../public/imgs/Farlopa.png" class="corner-img top-right" alt="Farlopa">
+    <img src="../../public/imgs/Raulitas.png" class="corner-img bottom-left" alt="Raulitas">
+    <img src="../../public/imgs/young.png" class="corner-img bottom-right" alt="Young">
 
     <div class="container">
         <header>
-             <img src="imgs/Logo.png"  class="image" alt="Mono Maillot">
+             <img src="../../public/imgs/Logo.png"  class="image" alt="Mono Maillot">
         </header>
         <section id="player-container">
             <div class="player">
